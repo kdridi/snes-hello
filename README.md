@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SlithyMatt/snes-hello)
+
 # "Hello, World!" for the Super Nintendo Entertainment System
 If you're looking for the Nintendo Seal of Quality, you're gonna have a bad time.
 
