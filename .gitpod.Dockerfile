@@ -6,4 +6,4 @@ FROM gitpod/workspace-full
 #
 # More information: https://www.gitpod.io/docs/config-docker/
 
-RUN apt install -y cc65 cc65-doc
+RUN sudo apt install -y cc65 cc65-doc
