@@ -4,3 +4,7 @@ image:
 tasks:
   - init: './build.sh'
     command: 'echo "Please use ./build.sh to build your project"'
+
+vscode:
+  extensions:
+    - entan-gl.cc65-vice
